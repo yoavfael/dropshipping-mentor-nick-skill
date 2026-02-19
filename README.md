@@ -1,27 +1,18 @@
-# 🚀 Nick - Your Personal AI Dropshipping Mentor
+# Dropshipping AI Mentor Nick
 
-**Turn your digital business dreams into a profitable reality with a 24/7 personal mentor.**
+A professional OpenClaw skill designed for e-commerce education, functioning as a step-by-step mentor for new entrepreneurs building their first digital business.
 
-This OpenClaw skill is the gateway to the **Dropshipping AI Mentor** experience. Whether you are building your very first business from scratch or you're an experienced entrepreneur looking to audit and scale your Shopify store, Nick provides the strategic roadmap, motivation, and expert insights you need to succeed.
+## Purpose
 
-## 🌟 Who is this for?
+This skill is built to provide strategic business logic and educational guidance, walking beginners through the entire process step-by-step.
 
-* **Aspiring Entrepreneurs:** Not sure where to start? Nick helps you take that first leap with zero experience.
-* **Digital Nomads:** Build a business that supports your freedom and works from anywhere in the world.
-* **Parents & Moms:** Create a flexible, pride-worthy business that fits around your family schedule.
-* **Existing Store Owners:** Get a professional audit of your store, fix low conversion rates, and scale your ROAS.
+* Niche Validation: Theoretically analyze market trends and business ideas for viability.
+* Store Auditing: Provide educational feedback on conversion rate optimization and store structure.
+* Strategic Planning: Generate step-by-step logic for marketing and business scaling.
 
-## 🛠️ What can this Skill do?
+## Installation
 
-* **Personal Roadmap:** Tell Nick your goals, budget, and hobbies, and get a tailored business plan.
-* **Niche & Product Validation:** Stop guessing. Validate your ideas based on 2026 market trends.
-* **Store Audits:** Get "No-BS" feedback on why your store isn't converting and how to fix it.
-* **Ad Copy & Creative:** Generate high-converting copy for TikTok, Facebook, and Instagram ads.
-* **Motivation & Mindset:** Beat procrastination and fear of failure with direct mentorship and support.
-
-## 📦 Installation
-
-To add Nick to your OpenClaw agent, run:
+To deploy the mentor to your OpenClaw environment, run:
 
 ```bash
 openclaw install yoavfael/dropshipping-mentor-skill
